@@ -1,7 +1,7 @@
 <?php
-$servername = "us-cdbr-iron-east-04.cleardb.net";
-$username = "b0f671b73443cd";
-$password = "9139d83f";
+$servername = "198.11.234.73";
+$username = "uOhajD8IbnTnp";
+$password = "plLA5HRhhiF93";
 
 // Create connection
 $conn = mysql_connect($servername, $username, $password);
